@@ -20,9 +20,5 @@ This will give you file watching, browser synchronisation, auto-rebuild, CSS inj
 ```shell
 $ gulp
 ```
+tutorial: https://www.youtube.com/watch?v=nY4kQssg3lw
 
-**jekyll**
-
-As this is just a Jekyll project, you can use any of the commands listed in their [docs](http://jekyllrb.com/docs/usage/)
-
-```
